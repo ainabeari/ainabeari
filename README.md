@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working as an electrical engineer on McMaster's cubesat team called NEUDOSE
-🌱 I’m currently learning everything from electrical engineering, to coding to physics. (I am enrolled in second year Engineering Physics at McMaster)
-👯 I’m looking to collaborate on fun and exciting projects with an impact
+- 🔭 I’m currently working as an electrical engineer on McMaster's cubesat team called NEUDOSE
+- 🌱 I’m currently learning everything from electrical engineering, to coding to physics. (I am enrolled in second year Engineering Physics at McMaster)
+- 👯 I’m looking to collaborate on fun and exciting projects with an impact
