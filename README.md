@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as an electrical engineer on McMaster's cubesat team called NEUDOSE
 - 🌱 I’m learning everything from electrical engineering, to coding to physics. (I am enrolled in second year Engineering Physics at McMaster)
 - 👯 I’m looking to collaborate on fun and exciting projects with an impact
+
+Please feel free to contact me on any of my socials!
