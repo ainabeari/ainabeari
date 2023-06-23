@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arielle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielle-ainabe/)](https://www.linkedin.com/in/arielle-ainabe/)
 <!--[![Devpost badge](https://img.shields.io/badge/-ainabeari-9cf?style=flat&logo=Devpost&logoColor=black&link=https://devpost.com/ainabeari)](https://devpost.com/ainabeari)-->
-- 🔭 I’m currently working as an electrical engineer on McMaster's cubesat team called NEUDOSE
+- 🔭 I was an electrical engineer on McMaster's Interdisciplinary Satellite Team working on the NEUDOSE mission
 - 🌱 I’m learning everything from electrical engineering, to coding to physics. (I am enrolled in Engineering Physics at McMaster)
 - 👯 I’m looking to collaborate on fun and exciting projects with an impact
 
