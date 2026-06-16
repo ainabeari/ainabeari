@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arielle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielle-ainabe/)](https://www.linkedin.com/in/arielle-ainabe/)
 <!--[![Devpost badge](https://img.shields.io/badge/-ainabeari-9cf?style=flat&logo=Devpost&logoColor=black&link=https://devpost.com/ainabeari)](https://devpost.com/ainabeari)-->
-⚡ I am a recent Engineering Physics Graduate looking for full time and internship opportunities!
+⚡ I am an engineer working on electronics testing for autonomous drone technology
 
 Please feel free to contact me on any of my socials!
